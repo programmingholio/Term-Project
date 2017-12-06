@@ -1,0 +1,69 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     6046 MB
+    Driver:   22.21.13.8514
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.188 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Cloud1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cloud3') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BackgroundGradient - 5') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cloud1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BackgroundGradient - 4') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BackgroundGradient - 2') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cloud2') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BackgroundGradient') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BackgroundGradient - 3') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 0.773834 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2eec -> priority: 1 
+  Thread -> id: 1d84 -> priority: 1 
+  Thread -> id: 24a0 -> priority: 1 
+  Thread -> id: a6c -> priority: 1 
