@@ -7,10 +7,17 @@ public class PlayerPlatformerController : PhysicsObject
 
     public float maxSpeed = 7;
     public float jumpTakeOffSpeed = 7;
+    public GameObject bullet;
+    public float fire_rate = 0.5f;
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
     private bool weapon;
+    private Vector2 bullet_position;
+    private float next_fire = 0.0f;
+    private bool flipSprite;
+    private Vector2 move;
+
     // Use this for initialization
     void Awake()
     {
@@ -25,9 +32,7 @@ public class PlayerPlatformerController : PhysicsObject
          * # Track the Movement #
          * ######################
          */
-        Vector2 move = Vector2.zero;
-
-
+        move = Vector2.zero;
         move.x = Input.GetAxis("Horizontal");
 
         if (Input.GetKeyDown(KeyCode.Q))
@@ -75,7 +80,6 @@ public class PlayerPlatformerController : PhysicsObject
          * # Walk #
          * ########
          */
-        bool flipSprite;
         if (Input.GetButtonDown("Horizontal"))
         {
             //Change Animation
@@ -89,7 +93,7 @@ public class PlayerPlatformerController : PhysicsObject
             flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
             if (flipSprite)
             {
-                spriteRenderer.flipX = !spriteRenderer.flipX;
+                bullet.GetComponent<Rigidbody2D>().velocity *= -1;
             }
         }
         else if (Input.GetButtonUp("Horizontal"))
@@ -114,9 +118,11 @@ public class PlayerPlatformerController : PhysicsObject
          * # Pull the Gun #
          * ################
          */
-        if( Input.GetMouseButtonDown(0) )
+        if( Input.GetMouseButtonDown(0) && Time.time > next_fire)
         {
             animator.SetInteger("State", 5);
+            next_fire = Time.time + fire_rate;
+            Fire();
         }
         else if (Input.GetMouseButtonUp(0))
         {
@@ -136,5 +142,18 @@ public class PlayerPlatformerController : PhysicsObject
     void BackToPreviousState()
     {
 
+    }
+    /*
+     * #####################
+     * # The fire function #
+     * #####################
+     */
+    void Fire()
+    {
+        
+        bullet_position = transform.position;
+        bullet_position += new Vector2(+0.5f, 0f);
+
+        Instantiate(bullet, bullet_position, Quaternion.identity);
     }
 }
