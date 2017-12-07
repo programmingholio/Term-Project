@@ -7,8 +7,15 @@ public class PlayerPlatformerController : PhysicsObject
 
     public float maxSpeed = 7;
     public float jumpTakeOffSpeed = 7;
+
+    //the bullet game object
     public GameObject bullet;
+    public float bullet_velx = 5f;
+    private float bullet_vely = 0f;
+    Rigidbody2D bullet_rb;
+
     public float fire_rate = 0.5f;
+    public Vector2 offset = new Vector2 (0.5f, 0f);
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
@@ -23,6 +30,7 @@ public class PlayerPlatformerController : PhysicsObject
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        bullet_rb = bullet.GetComponent<Rigidbody2D>();
     }
 
     protected override void ComputeVelocity()
@@ -152,8 +160,21 @@ public class PlayerPlatformerController : PhysicsObject
     {
         
         bullet_position = transform.position;
-        bullet_position += new Vector2(+0.5f, 0f);
+        //bullet_position += offset;
 
+        //Flip the Player
+        flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+
+        if (flipSprite)
+        {
+            bullet_position += offset;
+            bullet_rb.velocity = new Vector2(bullet_velx, bullet_vely);
+        }
+        else
+        {
+            bullet_position += offset * -1;
+            bullet_rb.velocity = new Vector2(bullet_velx * -1, bullet_vely);
+        }
         Instantiate(bullet, bullet_position, Quaternion.identity);
     }
 }
