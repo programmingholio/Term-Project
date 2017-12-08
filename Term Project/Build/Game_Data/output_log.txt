@@ -7,21 +7,21 @@ Direct3D:
     VRAM:     6046 MB
     Driver:   22.21.13.8514
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\zirou\Desktop\Unity Game\Term Project\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.016 seconds
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.212 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
@@ -61,9 +61,9 @@ The referenced script on this Behaviour (Game Object 'BackgroundGradient - 3') i
  
 (Filename:  Line: 1758)
 
-UnloadTime: 0.940854 ms
+UnloadTime: 0.637447 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2f1c -> priority: 1 
-  Thread -> id: 3704 -> priority: 1 
-  Thread -> id: 1ed8 -> priority: 1 
-  Thread -> id: 1ec8 -> priority: 1 
+  Thread -> id: 3d58 -> priority: 1 
+  Thread -> id: 90c -> priority: 1 
+  Thread -> id: 27d0 -> priority: 1 
+  Thread -> id: 29c0 -> priority: 1 

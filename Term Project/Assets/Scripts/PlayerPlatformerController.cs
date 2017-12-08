@@ -7,8 +7,12 @@ public class PlayerPlatformerController : PhysicsObject
 
     public float maxSpeed = 7;
     public float jumpTakeOffSpeed = 7;
+
+    //the bullet game object
     public GameObject bullet;
+
     public float fire_rate = 0.5f;
+    public Vector2 offset = new Vector2 (0.5f, 0f);
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
@@ -51,8 +55,6 @@ public class PlayerPlatformerController : PhysicsObject
          * # Jump #
          * ########
          */
-
-
         if (Input.GetButtonDown("Jump") && grounded)
         {
             velocity.y = jumpTakeOffSpeed;
@@ -93,7 +95,9 @@ public class PlayerPlatformerController : PhysicsObject
             flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
             if (flipSprite)
             {
-                bullet.GetComponent<Rigidbody2D>().velocity *= -1;
+                spriteRenderer.flipX = !spriteRenderer.flipX;
+                //flip the bullet
+                BulletScript.velx *= -1;
             }
         }
         else if (Input.GetButtonUp("Horizontal"))
@@ -106,11 +110,11 @@ public class PlayerPlatformerController : PhysicsObject
             else animator.SetInteger("State", 0);
 
             //Flip the Player
-            flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+            /*flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
             if (flipSprite)
             {
                 spriteRenderer.flipX = !spriteRenderer.flipX;
-            }
+            }*/
         }
 
         /*
@@ -150,9 +154,19 @@ public class PlayerPlatformerController : PhysicsObject
      */
     void Fire()
     {
-        
         bullet_position = transform.position;
-        bullet_position += new Vector2(+0.5f, 0f);
+        //bullet_position += offset;
+
+        //Flip the Player
+        flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+        if (flipSprite)
+        {
+            bullet_position += offset;
+        }
+        else
+        {
+            bullet_position += offset * -1;
+        }
 
         Instantiate(bullet, bullet_position, Quaternion.identity);
     }

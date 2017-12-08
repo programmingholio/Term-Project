@@ -5,7 +5,8 @@ using UnityEngine;
 public class BulletScript : MonoBehaviour {
 
     //The speed of the bullet
-    public float velx = 5f;
+    //public GameObject player;
+    public static float velx = 5f;
     float vely = 0;
     Rigidbody2D rb;
 
@@ -16,6 +17,7 @@ public class BulletScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
         rb.velocity = new Vector2(velx, vely);
 	}
 }
