@@ -1,9 +1,164 @@
 fileFormatVersion: 2
 guid: ac29b57b6a29279408bbb224ab46ddb6
-timeCreated: 1512072535
+timeCreated: 1512784363
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: industrial.v2_0
+    21300002: industrial.v2_1
+    21300004: industrial.v2_2
+    21300006: industrial.v2_3
+    21300008: industrial.v2_4
+    21300010: industrial.v2_5
+    21300012: industrial.v2_6
+    21300014: industrial.v2_7
+    21300016: industrial.v2_8
+    21300018: industrial.v2_9
+    21300020: industrial.v2_10
+    21300022: industrial.v2_11
+    21300024: industrial.v2_12
+    21300026: industrial.v2_13
+    21300028: industrial.v2_14
+    21300030: industrial.v2_15
+    21300032: industrial.v2_16
+    21300034: industrial.v2_17
+    21300036: industrial.v2_18
+    21300038: industrial.v2_19
+    21300040: industrial.v2_20
+    21300042: industrial.v2_21
+    21300044: industrial.v2_22
+    21300046: industrial.v2_23
+    21300048: industrial.v2_24
+    21300050: industrial.v2_25
+    21300052: industrial.v2_26
+    21300054: industrial.v2_27
+    21300056: industrial.v2_28
+    21300058: industrial.v2_29
+    21300060: industrial.v2_30
+    21300062: industrial.v2_31
+    21300064: industrial.v2_32
+    21300066: industrial.v2_33
+    21300068: industrial.v2_34
+    21300070: industrial.v2_35
+    21300072: industrial.v2_36
+    21300074: industrial.v2_37
+    21300076: industrial.v2_38
+    21300078: industrial.v2_39
+    21300080: industrial.v2_40
+    21300082: industrial.v2_41
+    21300084: industrial.v2_42
+    21300086: industrial.v2_43
+    21300088: industrial.v2_44
+    21300090: industrial.v2_45
+    21300092: industrial.v2_46
+    21300094: industrial.v2_47
+    21300096: industrial.v2_48
+    21300098: industrial.v2_49
+    21300100: industrial.v2_50
+    21300102: industrial.v2_51
+    21300104: industrial.v2_52
+    21300106: industrial.v2_53
+    21300108: industrial.v2_54
+    21300110: industrial.v2_55
+    21300112: industrial.v2_56
+    21300114: industrial.v2_57
+    21300116: industrial.v2_58
+    21300118: industrial.v2_59
+    21300120: industrial.v2_60
+    21300122: industrial.v2_61
+    21300124: industrial.v2_62
+    21300126: industrial.v2_63
+    21300128: industrial.v2_64
+    21300130: industrial.v2_65
+    21300132: industrial.v2_66
+    21300134: industrial.v2_67
+    21300136: industrial.v2_68
+    21300138: industrial.v2_69
+    21300140: industrial.v2_70
+    21300142: industrial.v2_71
+    21300144: industrial.v2_72
+    21300146: industrial.v2_73
+    21300148: industrial.v2_74
+    21300150: industrial.v2_75
+    21300152: industrial.v2_76
+    21300154: industrial.v2_77
+    21300156: industrial.v2_78
+    21300158: industrial.v2_79
+    21300160: industrial.v2_80
+    21300162: industrial.v2_81
+    21300164: industrial.v2_82
+    21300166: industrial.v2_83
+    21300168: industrial.v2_84
+    21300170: industrial.v2_85
+    21300172: industrial.v2_86
+    21300174: industrial.v2_87
+    21300176: industrial.v2_88
+    21300178: industrial.v2_89
+    21300180: industrial.v2_90
+    21300182: industrial.v2_91
+    21300184: industrial.v2_92
+    21300186: industrial.v2_93
+    21300188: industrial.v2_94
+    21300190: industrial.v2_95
+    21300192: industrial.v2_96
+    21300194: industrial.v2_97
+    21300196: industrial.v2_98
+    21300198: industrial.v2_99
+    21300200: industrial.v2_100
+    21300202: industrial.v2_101
+    21300204: industrial.v2_102
+    21300206: industrial.v2_103
+    21300208: industrial.v2_104
+    21300210: industrial.v2_105
+    21300212: industrial.v2_106
+    21300214: industrial.v2_107
+    21300216: industrial.v2_108
+    21300218: industrial.v2_109
+    21300220: industrial.v2_110
+    21300222: industrial.v2_111
+    21300224: industrial.v2_112
+    21300226: industrial.v2_113
+    21300228: industrial.v2_114
+    21300230: industrial.v2_115
+    21300232: industrial.v2_116
+    21300234: industrial.v2_117
+    21300236: industrial.v2_118
+    21300238: industrial.v2_119
+    21300240: industrial.v2_120
+    21300242: industrial.v2_121
+    21300244: industrial.v2_122
+    21300246: industrial.v2_123
+    21300248: industrial.v2_124
+    21300250: industrial.v2_125
+    21300252: industrial.v2_126
+    21300254: industrial.v2_127
+    21300256: industrial.v2_128
+    21300258: industrial.v2_129
+    21300260: industrial.v2_130
+    21300262: industrial.v2_131
+    21300264: industrial.v2_132
+    21300266: industrial.v2_133
+    21300268: industrial.v2_134
+    21300270: industrial.v2_135
+    21300272: industrial.v2_136
+    21300274: industrial.v2_137
+    21300276: industrial.v2_138
+    21300278: industrial.v2_139
+    21300280: industrial.v2_140
+    21300282: industrial.v2_141
+    21300284: industrial.v2_142
+    21300286: industrial.v2_143
+    21300288: industrial.v2_144
+    21300290: industrial.v2_145
+    21300292: industrial.v2_146
+    21300294: industrial.v2_147
+    21300296: industrial.v2_148
+    21300298: industrial.v2_149
+    21300300: industrial.v2_150
+    21300302: industrial.v2_151
+    21300304: industrial.v2_152
+    21300306: industrial.v2_153
+    21300308: industrial.v2_154
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -39,7 +194,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +203,7 @@ TextureImporter:
   spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0.16
   textureType: 8
   textureShape: 1
   maxTextureSizeSet: 0
@@ -63,10 +218,3248 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
-    outline: []
+    sprites:
+    - serializedVersion: 2
+      name: industrial.v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 368
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 496
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 458
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 464
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 451
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 432
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 406
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 432
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 368
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 424
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 416
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 416
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 176
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 400
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 32
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 400
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 303
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 382
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 384
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 370
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 368
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 368
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 368
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 355
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 352
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 339
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 339
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 339
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 339
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 341
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_53
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 341
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 304
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 325
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 307
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 312
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 306
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 316
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 316
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 306
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 289
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 275
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_69
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_72
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 226
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 251
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 224
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_91
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_92
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_95
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 208
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 212
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 211
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_100
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 176
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_106
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_107
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 176
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_110
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_111
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_113
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_114
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_120
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_123
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_124
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_125
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_127
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_128
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_129
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_130
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_131
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_138
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_139
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_141
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_142
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_143
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_146
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_148
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_152
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 295
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: industrial.v2_154
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -196, y: -161}
+      - {x: -212, y: -161}
+      - {x: -219, y: -162}
+      - {x: -223, y: -166}
+      - {x: -229, y: -161}
+      - {x: -202, y: -161}
+      - {x: -192, y: -159}
+      - {x: -189, y: -147}
+      - {x: -192, y: -140}
+      - {x: -192, y: -135}
+      - {x: -192, y: -140}
+      - {x: -188, y: -146}
+      - {x: -180, y: -145}
+      - {x: -176, y: -140}
+      - {x: -176, y: -135}
+      - {x: -176, y: -140}
+      - {x: -174, y: -145}
+      - {x: -166, y: -146}
+      - {x: -158, y: -141}
+      - {x: -152, y: -104}
+      - {x: -168, y: -91}
+      - {x: -172, y: -96}
+      - {x: -175, y: -100}
+      - {x: -175, y: -105}
+      - {x: -175, y: -101}
+      - {x: -176, y: -99}
+      - {x: -184, y: -93}
+      - {x: -193, y: -99}
+      - {x: -190, y: -97}
+      - {x: -191, y: -61}
+      - {x: -194, y: -51}
+      - {x: -196, y: -50}
+      - {x: -205, y: -50}
+      - {x: -207, y: -52}
+      - {x: -212, y: -50}
+      - {x: -221, y: -50}
+      - {x: -223, y: -52}
+      - {x: -222, y: -50}
+      - {x: -210, y: -50}
+      - {x: -208, y: -48}
+      - {x: -205, y: -50}
+      - {x: -197, y: -50}
+      - {x: -190, y: -43}
+      - {x: -193, y: -28}
+      - {x: -193, y: -25}
+      - {x: -193, y: -28}
+      - {x: -190, y: -34}
+      - {x: -179, y: -33}
+      - {x: -178, y: -30}
+      - {x: -178, y: -18}
+      - {x: -178, y: -23}
+      - {x: -177, y: -31}
+      - {x: -175, y: -33}
+      - {x: -163, y: -32}
+      - {x: -162, y: -29}
+      - {x: -159, y: -34}
+      - {x: -150, y: -35}
+      - {x: -148, y: -34}
+      - {x: -146, y: -32}
+      - {x: -145, y: -27}
+      - {x: -145, y: -25}
+      - {x: -145, y: -27}
+      - {x: -144, y: -32}
+      - {x: -139, y: -37}
+      - {x: -128, y: -31}
+      - {x: -128, y: -1}
+      - {x: -158, y: 0}
+      - {x: -256, y: 0}
+      - {x: -256, y: -159}
+      - {x: -253, y: -161}
+      - {x: -250, y: -161}
+      - {x: -251, y: -161}
+      - {x: -256, y: -162}
+      - {x: -256, y: -192}
+      - {x: -181, y: -192}
+      - {x: -140, y: -178}
+      - {x: -143, y: -162}
+      - {x: -156, y: -157}
+    - - {x: -240, y: -165}
+      - {x: -242, y: -158}
+      - {x: -237, y: -163}
+      - {x: -237, y: -162}
+      - {x: -240, y: -165}
+      - {x: -240, y: -168}
+    - - {x: -242, y: -142}
+      - {x: -242, y: -143}
+      - {x: -239, y: -140}
+      - {x: -239, y: -135}
+      - {x: -241, y: -133}
+      - {x: -241, y: -131}
+      - {x: -242, y: -130}
+      - {x: -240, y: -128}
+      - {x: -240, y: -125}
+      - {x: -241, y: -128}
+      - {x: -240, y: -129}
+      - {x: -241, y: -131}
+      - {x: -241, y: -140}
+      - {x: -237, y: -145}
+      - {x: -239, y: -144}
+      - {x: -240, y: -145}
+      - {x: -239, y: -145}
+    - - {x: -223, y: -135}
+      - {x: -225, y: -133}
+      - {x: -225, y: -131}
+      - {x: -226, y: -130}
+      - {x: -224, y: -128}
+      - {x: -224, y: -125}
+      - {x: -225, y: -124}
+      - {x: -225, y: -128}
+      - {x: -224, y: -130}
+      - {x: -225, y: -131}
+      - {x: -225, y: -140}
+    - - {x: -210, y: -142}
+      - {x: -212, y: -143}
+      - {x: -211, y: -144}
+      - {x: -207, y: -140}
+      - {x: -207, y: -135}
+      - {x: -209, y: -133}
+      - {x: -209, y: -131}
+      - {x: -210, y: -130}
+      - {x: -208, y: -128}
+      - {x: -208, y: -125}
+      - {x: -209, y: -125}
+      - {x: -209, y: -128}
+      - {x: -208, y: -130}
+      - {x: -209, y: -131}
+      - {x: -209, y: -141}
+      - {x: -207, y: -144}
+      - {x: -205, y: -144}
+      - {x: -207, y: -143}
+      - {x: -208, y: -143}
+    - - {x: -76, y: -96}
+      - {x: -79, y: -100}
+      - {x: -79, y: -105}
+      - {x: -79, y: -101}
+      - {x: -80, y: -99}
+      - {x: -86, y: -96}
+      - {x: -92, y: -96}
+      - {x: -95, y: -100}
+      - {x: -95, y: -106}
+      - {x: -95, y: -101}
+      - {x: -96, y: -99}
+      - {x: -102, y: -96}
+      - {x: -108, y: -96}
+      - {x: -111, y: -100}
+      - {x: -111, y: -105}
+      - {x: -111, y: -101}
+      - {x: -112, y: -99}
+      - {x: -118, y: -96}
+      - {x: -124, y: -96}
+      - {x: -127, y: -100}
+      - {x: -127, y: -105}
+      - {x: -127, y: -101}
+      - {x: -128, y: -99}
+      - {x: -132, y: -96}
+      - {x: -142, y: -96}
+      - {x: -145, y: -97}
+      - {x: -145, y: -130}
+      - {x: -52, y: -130}
+      - {x: -48, y: -128}
+      - {x: -48, y: -108}
+      - {x: -66, y: -96}
+    - - {x: -222, y: -108}
+      - {x: -221, y: -108}
+      - {x: -223, y: -109}
+    - - {x: -241, y: -110}
+      - {x: -243, y: -108}
+      - {x: -240, y: -107}
+      - {x: -238, y: -104}
+      - {x: -238, y: -101}
+      - {x: -240, y: -98}
+      - {x: -243, y: -97}
+      - {x: -247, y: -98}
+      - {x: -242, y: -99}
+      - {x: -240, y: -98}
+      - {x: -239, y: -98}
+      - {x: -240, y: -100}
+      - {x: -240, y: -105}
+      - {x: -237, y: -108}
+      - {x: -241, y: -112}
+    - - {x: -156, y: -96}
+      - {x: -159, y: -97}
+      - {x: -159, y: -114}
+      - {x: -147, y: -114}
+      - {x: -143, y: -108}
+      - {x: -143, y: -96}
+    - - {x: -227, y: -97}
+      - {x: -231, y: -98}
+      - {x: -226, y: -99}
+      - {x: -224, y: -98}
+    - - {x: -239, y: -90}
+      - {x: -239, y: -81}
+      - {x: -241, y: -79}
+      - {x: -241, y: -59}
+      - {x: -241, y: -64}
+      - {x: -238, y: -67}
+      - {x: -239, y: -68}
+      - {x: -239, y: -75}
+      - {x: -240, y: -78}
+      - {x: -240, y: -81}
+      - {x: -241, y: -82}
+      - {x: -241, y: -92}
+      - {x: -240, y: -92}
+    - - {x: -223, y: -82}
+      - {x: -224, y: -81}
+      - {x: -224, y: -78}
+      - {x: -225, y: -66}
+      - {x: -225, y: -63}
+      - {x: -223, y: -60}
+      - {x: -225, y: -61}
+      - {x: -225, y: -64}
+      - {x: -224, y: -76}
+      - {x: -224, y: -81}
+      - {x: -225, y: -82}
+      - {x: -225, y: -92}
+      - {x: -223, y: -91}
+    - - {x: -207, y: -82}
+      - {x: -208, y: -81}
+      - {x: -208, y: -76}
+      - {x: -209, y: -68}
+      - {x: -212, y: -65}
+      - {x: -214, y: -66}
+      - {x: -212, y: -67}
+      - {x: -210, y: -67}
+      - {x: -206, y: -66}
+      - {x: -207, y: -68}
+      - {x: -207, y: -75}
+      - {x: -208, y: -78}
+      - {x: -208, y: -80}
+      - {x: -209, y: -81}
+      - {x: -209, y: -91}
+      - {x: -208, y: -92}
+      - {x: -207, y: -91}
+    - - {x: -188, y: -62}
+      - {x: -190, y: -65}
+      - {x: -190, y: -82}
+      - {x: -180, y: -82}
+      - {x: -178, y: -81}
+      - {x: -178, y: -63}
+      - {x: -184, y: -62}
+    - - {x: -140, y: -62}
+      - {x: -142, y: -65}
+      - {x: -142, y: -82}
+      - {x: -132, y: -82}
+      - {x: -130, y: -81}
+      - {x: -130, y: -63}
+      - {x: -136, y: -62}
+    - - {x: -124, y: -63}
+      - {x: -126, y: -68}
+      - {x: -127, y: -72}
+      - {x: -127, y: -82}
+      - {x: -113, y: -82}
+      - {x: -113, y: -65}
+      - {x: -119, y: -63}
+    - - {x: -109, y: -65}
+      - {x: -111, y: -72}
+      - {x: -111, y: -82}
+      - {x: -97, y: -82}
+      - {x: -97, y: -67}
+      - {x: -101, y: -65}
+    - - {x: -92, y: -63}
+      - {x: -94, y: -68}
+      - {x: -95, y: -72}
+      - {x: -95, y: -82}
+      - {x: -81, y: -82}
+      - {x: -81, y: -65}
+      - {x: -87, y: -63}
+    - - {x: -76, y: -62}
+      - {x: -78, y: -65}
+      - {x: -78, y: -82}
+      - {x: -68, y: -82}
+      - {x: -66, y: -81}
+      - {x: -66, y: -63}
+      - {x: -72, y: -62}
+    - - {x: -169, y: -69}
+      - {x: -171, y: -71}
+      - {x: -171, y: -79}
+      - {x: -169, y: -81}
+      - {x: -166, y: -81}
+      - {x: -164, y: -79}
+      - {x: -164, y: -71}
+      - {x: -166, y: -69}
+    - - {x: -155, y: -69}
+      - {x: -157, y: -72}
+      - {x: -157, y: -77}
+      - {x: -154, y: -81}
+      - {x: -149, y: -81}
+      - {x: -146, y: -78}
+      - {x: -146, y: -72}
+      - {x: -147, y: -69}
+    - - {x: -242, y: -50}
+      - {x: -240, y: -48}
+      - {x: -241, y: -48}
+      - {x: -239, y: -50}
+    - - {x: -152, y: -34}
+      - {x: -156, y: -35}
+      - {x: -156, y: -46}
+      - {x: -155, y: -47}
+      - {x: -152, y: -47}
+      - {x: -141, y: -45}
+      - {x: -138, y: -43}
+      - {x: -138, y: -38}
+      - {x: -140, y: -34}
+    - - {x: -193, y: -34}
+      - {x: -193, y: -40}
+      - {x: -188, y: -46}
+      - {x: -176, y: -46}
+      - {x: -171, y: -43}
+      - {x: -171, y: -37}
+      - {x: -175, y: -34}
+    - - {x: -111, y: -36}
+      - {x: -119, y: -43}
+      - {x: -117, y: -46}
+      - {x: -109, y: -45}
+      - {x: -105, y: -41}
+      - {x: -105, y: -39}
+      - {x: -108, y: -36}
+    - - {x: -80, y: -42}
+      - {x: -79, y: -45}
+      - {x: -76, y: -45}
+      - {x: -72, y: -41}
+      - {x: -72, y: -39}
+      - {x: -75, y: -38}
+    - - {x: -209, y: -28}
+      - {x: -206, y: -32}
+      - {x: -208, y: -34}
+      - {x: -209, y: -37}
+    - - {x: -241, y: -34}
+      - {x: -244, y: -31}
+      - {x: -249, y: -32}
+      - {x: -247, y: -33}
+      - {x: -244, y: -33}
+      - {x: -241, y: -30}
+      - {x: -241, y: -28}
+      - {x: -241, y: -30}
+      - {x: -238, y: -33}
+      - {x: -236, y: -33}
+      - {x: -233, y: -31}
+      - {x: -231, y: -31}
+      - {x: -230, y: -32}
+      - {x: -227, y: -32}
+      - {x: -224, y: -29}
+      - {x: -225, y: -25}
+      - {x: -226, y: -26}
+      - {x: -225, y: -29}
+      - {x: -225, y: -34}
+      - {x: -228, y: -31}
+      - {x: -237, y: -31}
+      - {x: -240, y: -34}
+    - - {x: -45, y: 2}
+      - {x: -49, y: -2}
+      - {x: -49, y: -12}
+      - {x: -46, y: -21}
+      - {x: -35, y: -34}
+      - {x: -3, y: -34}
+      - {x: 2, y: -32}
+      - {x: 2, y: -4}
+      - {x: -6, y: 2}
+    - - {x: -209, y: -18}
+      - {x: -209, y: -14}
+      - {x: -207, y: -18}
+      - {x: -208, y: -19}
+    - - {x: -241, y: -13}
+      - {x: -240, y: -14}
+      - {x: -240, y: -22}
+      - {x: -241, y: -21}
+    - - {x: -225, y: -20}
+      - {x: -224, y: -22}
+      - {x: -223, y: -22}
+    - - {x: -128, y: -5}
+      - {x: -128, y: -18}
+      - {x: -115, y: -18}
+      - {x: -115, y: -5}
+    - - {x: -114, y: 2}
+      - {x: -114, y: -11}
+      - {x: -101, y: -11}
+      - {x: -101, y: 2}
+    - - {x: -98, y: 2}
+      - {x: -98, y: -11}
+      - {x: -85, y: -11}
+      - {x: -85, y: 2}
+    - - {x: -82, y: 2}
+      - {x: -82, y: -7}
+      - {x: -73, y: -7}
+      - {x: -73, y: 2}
+    - - {x: -66, y: 2}
+      - {x: -66, y: -7}
+      - {x: -57, y: -7}
+      - {x: -57, y: 2}
+    - - {x: -232, y: 25}
+      - {x: -248, y: 25}
+      - {x: -251, y: 21}
+      - {x: -251, y: 5}
+      - {x: -249, y: 4}
+      - {x: -229, y: 4}
+      - {x: -229, y: 21}
+    - - {x: -177, y: 52}
+      - {x: -180, y: 49}
+      - {x: -180, y: 15}
+      - {x: -177, y: 12}
+      - {x: -143, y: 12}
+      - {x: -140, y: 15}
+      - {x: -140, y: 49}
+      - {x: -143, y: 52}
+    - - {x: -30, y: 97}
+      - {x: -31, y: 48}
+      - {x: -29, y: 46}
+      - {x: -18, y: 43}
+      - {x: 0, y: 62}
+      - {x: 18, y: 88}
+      - {x: 55, y: 109}
+      - {x: 71, y: 78}
+      - {x: 113, y: 72}
+      - {x: 114, y: 74}
+      - {x: 114, y: 170}
+      - {x: 106, y: 188}
+      - {x: 91, y: 187}
+      - {x: 75, y: 168}
+      - {x: 80, y: 145}
+      - {x: 44, y: 142}
+      - {x: 16, y: 140}
+      - {x: 15, y: 137}
+      - {x: 15, y: 136}
+      - {x: 17, y: 128}
+      - {x: 19, y: 126}
+      - {x: 22, y: 126}
+      - {x: 24, y: 128}
+      - {x: 23, y: 134}
+      - {x: 34, y: 128}
+      - {x: 34, y: 126}
+      - {x: 36, y: 124}
+      - {x: 34, y: 123}
+      - {x: 32, y: 129}
+      - {x: 26, y: 129}
+      - {x: 24, y: 127}
+      - {x: 22, y: 124}
+      - {x: 19, y: 124}
+      - {x: 17, y: 127}
+      - {x: 14, y: 128}
+      - {x: 15, y: 145}
+      - {x: 19, y: 142}
+      - {x: 22, y: 142}
+      - {x: 24, y: 144}
+      - {x: 26, y: 142}
+      - {x: 30, y: 142}
+      - {x: 34, y: 143}
+      - {x: 42, y: 142}
+      - {x: 45, y: 142}
+      - {x: 47, y: 144}
+      - {x: 49, y: 149}
+      - {x: 49, y: 155}
+      - {x: 47, y: 157}
+      - {x: 33, y: 157}
+      - {x: 42, y: 157}
+      - {x: 48, y: 164}
+      - {x: 48, y: 173}
+      - {x: 46, y: 175}
+      - {x: 48, y: 180}
+      - {x: 48, y: 189}
+      - {x: 46, y: 191}
+      - {x: 34, y: 191}
+      - {x: 32, y: 189}
+      - {x: 30, y: 192}
+      - {x: 20, y: 197}
+      - {x: -1, y: 195}
+      - {x: -12, y: 136}
+      - {x: -16, y: 126}
+      - {x: -17, y: 128}
+      - {x: -14, y: 131}
+      - {x: -13, y: 141}
+      - {x: -19, y: 147}
+      - {x: -29, y: 147}
+      - {x: -33, y: 143}
+      - {x: -34, y: 140}
+      - {x: -34, y: 132}
+      - {x: -30, y: 123}
+      - {x: -34, y: 118}
+      - {x: -34, y: 137}
+      - {x: -39, y: 142}
+      - {x: -64, y: 162}
+      - {x: -191, y: 166}
+      - {x: -164, y: 184}
+      - {x: -174, y: 224}
+      - {x: -176, y: 226}
+      - {x: -159, y: 220}
+      - {x: -126, y: 222}
+      - {x: -124, y: 184}
+      - {x: -120, y: 180}
+      - {x: -87, y: 180}
+      - {x: -129, y: 179}
+      - {x: -134, y: 170}
+      - {x: -102, y: 164}
+      - {x: -62, y: 171}
+      - {x: -61, y: 191}
+      - {x: -68, y: 216}
+      - {x: 10, y: 238}
+      - {x: 2, y: 256}
+      - {x: -128, y: 256}
+      - {x: -128, y: 252}
+      - {x: -128, y: 255}
+      - {x: -129, y: 256}
+      - {x: -212, y: 256}
+      - {x: -256, y: 250}
+      - {x: -256, y: 233}
+      - {x: -248, y: 228}
+      - {x: -242, y: 226}
+      - {x: -256, y: 226}
+      - {x: -256, y: 141}
+      - {x: -242, y: 140}
+      - {x: -241, y: 143}
+      - {x: -227, y: 145}
+      - {x: -210, y: 148}
+      - {x: -237, y: 143}
+      - {x: -239, y: 141}
+      - {x: -256, y: 130}
+      - {x: -256, y: 100}
+      - {x: -192, y: 100}
+      - {x: -190, y: 102}
+      - {x: -190, y: 112}
+      - {x: -189, y: 100}
+      - {x: -187, y: 96}
+      - {x: -174, y: 96}
+      - {x: -174, y: 124}
+      - {x: -146, y: 100}
+      - {x: -133, y: 93}
+      - {x: -125, y: 112}
+      - {x: -74, y: 126}
+      - {x: -71, y: 126}
+      - {x: -69, y: 128}
+      - {x: -64, y: 130}
+      - {x: -46, y: 130}
+      - {x: -60, y: 130}
+      - {x: -62, y: 128}
+      - {x: -62, y: 126}
+      - {x: -73, y: 126}
+      - {x: -78, y: 121}
+      - {x: -81, y: 100}
+      - {x: -104, y: 52}
+      - {x: -98, y: 15}
+      - {x: -59, y: 15}
+      - {x: -31, y: 46}
+      - {x: -31, y: 59}
+      - {x: -38, y: 80}
+    - - {x: -113, y: 47}
+      - {x: -127, y: 33}
+      - {x: -127, y: 31}
+      - {x: -113, y: 17}
+      - {x: -111, y: 17}
+      - {x: -97, y: 31}
+      - {x: -97, y: 33}
+      - {x: -111, y: 47}
+    - - {x: -92, y: 32}
+      - {x: -80, y: 44}
+      - {x: -68, y: 32}
+      - {x: -80, y: 20}
+    - - {x: -121, y: 32}
+      - {x: -112, y: 41}
+      - {x: -103, y: 32}
+      - {x: -112, y: 23}
+    - - {x: -256, y: 82}
+      - {x: -256, y: 74}
+      - {x: -253, y: 68}
+      - {x: -251, y: 66}
+      - {x: -248, y: 67}
+      - {x: -246, y: 66}
+      - {x: -243, y: 67}
+      - {x: -236, y: 65}
+      - {x: -234, y: 66}
+      - {x: -213, y: 66}
+      - {x: -209, y: 64}
+      - {x: -214, y: 66}
+      - {x: -217, y: 66}
+      - {x: -219, y: 64}
+      - {x: -231, y: 66}
+      - {x: -233, y: 66}
+      - {x: -235, y: 64}
+      - {x: -245, y: 64}
+      - {x: -247, y: 66}
+      - {x: -249, y: 66}
+      - {x: -253, y: 65}
+      - {x: -254, y: 36}
+      - {x: -242, y: 31}
+      - {x: -192, y: 31}
+      - {x: -158, y: 60}
+      - {x: -158, y: 68}
+      - {x: -192, y: 82}
+    - - {x: -230, y: 41}
+      - {x: -229, y: 44}
+      - {x: -229, y: 52}
+      - {x: -231, y: 53}
+      - {x: -229, y: 52}
+      - {x: -222, y: 52}
+      - {x: -221, y: 53}
+      - {x: -218, y: 52}
+      - {x: -217, y: 53}
+      - {x: -219, y: 52}
+      - {x: -219, y: 43}
+      - {x: -218, y: 42}
+      - {x: -217, y: 40}
+      - {x: -218, y: 41}
+    - - {x: 5, y: 82}
+      - {x: -2, y: 62}
+      - {x: -2, y: 52}
+      - {x: 4, y: 46}
+      - {x: 9, y: 46}
+      - {x: 11, y: 48}
+      - {x: 11, y: 80}
+      - {x: 9, y: 82}
+    - - {x: 68, y: 98}
+      - {x: 41, y: 98}
+      - {x: 40, y: 96}
+      - {x: 40, y: 46}
+      - {x: 72, y: 46}
+      - {x: 76, y: 50}
+      - {x: 76, y: 85}
+      - {x: 74, y: 97}
+    - - {x: -113, y: 79}
+      - {x: -127, y: 65}
+      - {x: -127, y: 63}
+      - {x: -113, y: 49}
+      - {x: -111, y: 49}
+      - {x: -97, y: 63}
+      - {x: -97, y: 65}
+      - {x: -111, y: 79}
+    - - {x: -65, y: 58}
+      - {x: -64, y: 57}
+      - {x: -64, y: 56}
+      - {x: -65, y: 55}
+    - - {x: 54, y: 58}
+      - {x: 56, y: 59}
+      - {x: 55, y: 55}
+      - {x: 51, y: 56}
+    - - {x: 22, y: 82}
+      - {x: 21, y: 81}
+      - {x: 21, y: 57}
+      - {x: 24, y: 54}
+      - {x: 34, y: 54}
+      - {x: 34, y: 76}
+      - {x: 28, y: 82}
+    - - {x: -157, y: 75}
+      - {x: -157, y: 70}
+      - {x: -155, y: 67}
+      - {x: -151, y: 67}
+      - {x: -147, y: 69}
+      - {x: -147, y: 77}
+      - {x: -148, y: 80}
+      - {x: -149, y: 81}
+      - {x: -153, y: 81}
+      - {x: -156, y: 80}
+    - - {x: -141, y: 75}
+      - {x: -141, y: 70}
+      - {x: -139, y: 67}
+      - {x: -135, y: 67}
+      - {x: -131, y: 69}
+      - {x: -131, y: 77}
+      - {x: -132, y: 80}
+      - {x: -133, y: 81}
+      - {x: -137, y: 81}
+      - {x: -140, y: 80}
+    - - {x: -59, y: 74}
+      - {x: -53, y: 72}
+      - {x: -65, y: 72}
+    - - {x: 55, y: 70}
+      - {x: 57, y: 74}
+      - {x: 56, y: 76}
+      - {x: 57, y: 75}
+      - {x: 60, y: 75}
+      - {x: 56, y: 77}
+      - {x: 52, y: 74}
+      - {x: 50, y: 69}
+    - - {x: -189, y: 84}
+      - {x: -188, y: 81}
+      - {x: -179, y: 81}
+      - {x: -179, y: 93}
+      - {x: -180, y: 97}
+      - {x: -186, y: 97}
+      - {x: -189, y: 95}
+    - - {x: -173, y: 84}
+      - {x: -172, y: 81}
+      - {x: -163, y: 81}
+      - {x: -163, y: 93}
+      - {x: -164, y: 97}
+      - {x: -170, y: 97}
+      - {x: -173, y: 95}
+    - - {x: -157, y: 84}
+      - {x: -156, y: 81}
+      - {x: -147, y: 81}
+      - {x: -147, y: 93}
+      - {x: -148, y: 97}
+      - {x: -154, y: 97}
+      - {x: -157, y: 95}
+    - - {x: -141, y: 84}
+      - {x: -140, y: 81}
+      - {x: -131, y: 81}
+      - {x: -131, y: 93}
+      - {x: -132, y: 97}
+      - {x: -138, y: 97}
+      - {x: -141, y: 95}
+    - - {x: -121, y: 93}
+      - {x: -125, y: 90}
+      - {x: -125, y: 87}
+      - {x: -121, y: 83}
+      - {x: -119, y: 83}
+      - {x: -115, y: 85}
+      - {x: -115, y: 90}
+      - {x: -116, y: 93}
+    - - {x: -105, y: 93}
+      - {x: -109, y: 90}
+      - {x: -109, y: 87}
+      - {x: -105, y: 83}
+      - {x: -103, y: 83}
+      - {x: -99, y: 85}
+      - {x: -99, y: 90}
+      - {x: -100, y: 93}
+    - - {x: -256, y: 98}
+      - {x: -256, y: 84}
+      - {x: -192, y: 84}
+      - {x: -190, y: 86}
+      - {x: -190, y: 96}
+      - {x: -192, y: 98}
+    - - {x: 53, y: 89}
+      - {x: 55, y: 88}
+      - {x: 56, y: 88}
+      - {x: 59, y: 91}
+      - {x: 58, y: 91}
+      - {x: 58, y: 89}
+      - {x: 59, y: 88}
+      - {x: 58, y: 89}
+      - {x: 56, y: 87}
+      - {x: 55, y: 88}
+      - {x: 52, y: 87}
+    - - {x: 89, y: 93}
+      - {x: 93, y: 89}
+      - {x: 93, y: 90}
+    - - {x: 105, y: 93}
+      - {x: 109, y: 89}
+      - {x: 109, y: 90}
+    - - {x: -16, y: 95}
+      - {x: -17, y: 95}
+      - {x: -18, y: 124}
+      - {x: -19, y: 116}
+      - {x: -16, y: 113}
+      - {x: -4, y: 113}
+      - {x: -3, y: 112}
+      - {x: 0, y: 112}
+      - {x: -4, y: 115}
+      - {x: -12, y: 115}
+      - {x: -15, y: 112}
+      - {x: -14, y: 93}
+      - {x: -14, y: 94}
+    - - {x: 118, y: 113}
+      - {x: 114, y: 110}
+      - {x: 114, y: 101}
+      - {x: 116, y: 94}
+      - {x: 123, y: 94}
+      - {x: 126, y: 99}
+      - {x: 126, y: 107}
+      - {x: 123, y: 113}
+    - - {x: 134, y: 113}
+      - {x: 130, y: 110}
+      - {x: 130, y: 101}
+      - {x: 132, y: 94}
+      - {x: 139, y: 94}
+      - {x: 142, y: 99}
+      - {x: 142, y: 107}
+      - {x: 139, y: 113}
+    - - {x: 150, y: 113}
+      - {x: 146, y: 110}
+      - {x: 146, y: 101}
+      - {x: 148, y: 94}
+      - {x: 155, y: 94}
+      - {x: 158, y: 99}
+      - {x: 158, y: 107}
+      - {x: 155, y: 113}
+    - - {x: 166, y: 113}
+      - {x: 162, y: 110}
+      - {x: 162, y: 101}
+      - {x: 164, y: 94}
+      - {x: 171, y: 94}
+      - {x: 174, y: 99}
+      - {x: 174, y: 107}
+      - {x: 171, y: 113}
+    - - {x: 182, y: 113}
+      - {x: 178, y: 110}
+      - {x: 178, y: 101}
+      - {x: 180, y: 94}
+      - {x: 187, y: 94}
+      - {x: 190, y: 99}
+      - {x: 190, y: 107}
+      - {x: 187, y: 113}
+    - - {x: 198, y: 113}
+      - {x: 194, y: 110}
+      - {x: 194, y: 101}
+      - {x: 196, y: 94}
+      - {x: 203, y: 94}
+      - {x: 206, y: 99}
+      - {x: 206, y: 107}
+      - {x: 203, y: 113}
+    - - {x: 94, y: 100}
+      - {x: 95, y: 103}
+      - {x: 95, y: 107}
+      - {x: 98, y: 100}
+      - {x: 100, y: 98}
+      - {x: 99, y: 99}
+      - {x: 93, y: 99}
+      - {x: 92, y: 98}
+    - - {x: -164, y: 125}
+      - {x: -175, y: 117}
+      - {x: -175, y: 107}
+      - {x: -171, y: 99}
+      - {x: -163, y: 99}
+      - {x: -158, y: 107}
+      - {x: -158, y: 125}
+    - - {x: -147, y: 126}
+      - {x: -152, y: 126}
+      - {x: -159, y: 117}
+      - {x: -159, y: 112}
+      - {x: -158, y: 102}
+      - {x: -153, y: 99}
+      - {x: -151, y: 99}
+      - {x: -146, y: 102}
+      - {x: -143, y: 117}
+      - {x: -143, y: 124}
+    - - {x: -123, y: 126}
+      - {x: -127, y: 126}
+      - {x: -129, y: 124}
+      - {x: -129, y: 114}
+      - {x: -127, y: 102}
+      - {x: -123, y: 99}
+      - {x: -114, y: 99}
+      - {x: -113, y: 101}
+      - {x: -113, y: 119}
+      - {x: -117, y: 124}
+    - - {x: -106, y: 125}
+      - {x: -110, y: 125}
+      - {x: -114, y: 123}
+      - {x: -114, y: 116}
+      - {x: -109, y: 103}
+      - {x: -105, y: 99}
+      - {x: -103, y: 99}
+      - {x: -97, y: 102}
+      - {x: -97, y: 116}
+    - - {x: -86, y: 113}
+      - {x: -91, y: 113}
+      - {x: -93, y: 108}
+      - {x: -93, y: 103}
+      - {x: -89, y: 99}
+      - {x: -87, y: 99}
+      - {x: -83, y: 103}
+      - {x: -83, y: 107}
+    - - {x: 62, y: 110}
+      - {x: 65, y: 111}
+      - {x: 65, y: 114}
+      - {x: 62, y: 115}
+      - {x: 60, y: 113}
+    - - {x: 79, y: 124}
+      - {x: 80, y: 128}
+      - {x: 79, y: 133}
+      - {x: 82, y: 136}
+      - {x: 81, y: 137}
+      - {x: 81, y: 120}
+      - {x: 82, y: 121}
+    - - {x: 46, y: 124}
+      - {x: 46, y: 123}
+      - {x: 49, y: 126}
+      - {x: 49, y: 128}
+      - {x: 47, y: 130}
+      - {x: 48, y: 128}
+      - {x: 51, y: 125}
+      - {x: 54, y: 125}
+      - {x: 57, y: 128}
+      - {x: 57, y: 129}
+      - {x: 53, y: 126}
+      - {x: 51, y: 124}
+    - - {x: 97, y: 126}
+      - {x: 97, y: 129}
+      - {x: 94, y: 132}
+      - {x: 93, y: 132}
+      - {x: 90, y: 129}
+      - {x: 90, y: 128}
+      - {x: 92, y: 127}
+      - {x: 90, y: 128}
+      - {x: 89, y: 129}
+      - {x: 91, y: 133}
+      - {x: 98, y: 133}
+      - {x: 101, y: 130}
+      - {x: 101, y: 131}
+      - {x: 99, y: 131}
+      - {x: 96, y: 128}
+      - {x: 96, y: 127}
+      - {x: 99, y: 124}
+      - {x: 100, y: 124}
+      - {x: 101, y: 125}
+      - {x: 100, y: 126}
+    - - {x: -4, y: 132}
+      - {x: 1, y: 128}
+      - {x: 4, y: 125}
+      - {x: 12, y: 126}
+      - {x: 1, y: 127}
+      - {x: 0, y: 128}
+      - {x: -3, y: 128}
+      - {x: -4, y: 127}
+    - - {x: -93, y: 133}
+      - {x: -81, y: 141}
+      - {x: -81, y: 132}
+      - {x: -80, y: 133}
+    - - {x: -75, y: 142}
+      - {x: -72, y: 145}
+      - {x: -73, y: 146}
+      - {x: -74, y: 145}
+      - {x: -71, y: 142}
+      - {x: -67, y: 143}
+      - {x: -77, y: 143}
+      - {x: -76, y: 142}
+    - - {x: 87, y: 152}
+      - {x: 88, y: 152}
+      - {x: 97, y: 155}
+    - - {x: 90, y: 147}
+      - {x: 93, y: 148}
+      - {x: 93, y: 151}
+      - {x: 90, y: 152}
+      - {x: 88, y: 150}
+    - - {x: 97, y: 147}
+      - {x: 100, y: 148}
+      - {x: 100, y: 151}
+      - {x: 97, y: 152}
+      - {x: 95, y: 150}
+    - - {x: -34, y: 179}
+      - {x: -12, y: 180}
+      - {x: -12, y: 160}
+      - {x: -10, y: 158}
+      - {x: -5, y: 155}
+      - {x: -4, y: 160}
+      - {x: -4, y: 188}
+      - {x: -60, y: 188}
+      - {x: -60, y: 148}
+      - {x: -21, y: 148}
+      - {x: -14, y: 179}
+      - {x: -27, y: 179}
+      - {x: -29, y: 173}
+    - - {x: 94, y: 153}
+      - {x: 97, y: 154}
+      - {x: 97, y: 157}
+      - {x: 94, y: 158}
+      - {x: 92, y: 156}
+    - - {x: -51, y: 163}
+      - {x: -45, y: 163}
+      - {x: -45, y: 157}
+      - {x: -51, y: 157}
+    - - {x: -35, y: 163}
+      - {x: -29, y: 163}
+      - {x: -29, y: 157}
+      - {x: -35, y: 157}
+    - - {x: 14, y: 160}
+      - {x: 11, y: 159}
+      - {x: 12, y: 160}
+      - {x: 12, y: 161}
+      - {x: 14, y: 161}
+      - {x: 15, y: 163}
+      - {x: 13, y: 162}
+      - {x: 13, y: 160}
+      - {x: 15, y: 156}
+      - {x: 24, y: 157}
+      - {x: 23, y: 158}
+      - {x: 17, y: 158}
+      - {x: 16, y: 157}
+      - {x: 17, y: 157}
+    - - {x: -252, y: 177}
+      - {x: -252, y: 167}
+      - {x: -249, y: 166}
+      - {x: -245, y: 166}
+      - {x: -244, y: 167}
+      - {x: -244, y: 176}
+      - {x: -246, y: 177}
+    - - {x: 89, y: 172}
+      - {x: 93, y: 175}
+      - {x: 93, y: 174}
+      - {x: 95, y: 172}
+      - {x: 94, y: 173}
+      - {x: 90, y: 173}
+    - - {x: 26, y: 256}
+      - {x: 30, y: 251}
+      - {x: 33, y: 248}
+      - {x: 24, y: 234}
+      - {x: -29, y: 226}
+      - {x: -29, y: 218}
+      - {x: -21, y: 199}
+      - {x: 0, y: 192}
+      - {x: 77, y: 178}
+      - {x: 78, y: 192}
+      - {x: 78, y: 217}
+      - {x: 78, y: 204}
+      - {x: 81, y: 201}
+      - {x: 84, y: 192}
+      - {x: 95, y: 174}
+      - {x: 162, y: 174}
+      - {x: 162, y: 254}
+      - {x: 150, y: 256}
+    - - {x: -249, y: 210}
+      - {x: -252, y: 209}
+      - {x: -252, y: 185}
+      - {x: -250, y: 182}
+      - {x: -244, y: 182}
+      - {x: -244, y: 210}
+    - - {x: -108, y: 211}
+      - {x: -106, y: 210}
+      - {x: -105, y: 211}
+      - {x: -77, y: 211}
+      - {x: -105, y: 211}
+      - {x: -109, y: 207}
+      - {x: -109, y: 192}
+      - {x: -106, y: 189}
+      - {x: -102, y: 189}
+      - {x: -99, y: 192}
+      - {x: -93, y: 189}
+      - {x: -115, y: 189}
+    - - {x: 65, y: 215}
+      - {x: 65, y: 195}
+    - - {x: 139, y: 196}
+      - {x: 147, y: 199}
+      - {x: 153, y: 195}
+      - {x: 136, y: 194}
+    - - {x: -54, y: 226}
+      - {x: -66, y: 212}
+      - {x: -66, y: 203}
+      - {x: -63, y: 200}
+      - {x: -40, y: 200}
+      - {x: -35, y: 211}
+      - {x: -35, y: 226}
+    - - {x: 3, y: 203}
+      - {x: 3, y: 208}
+      - {x: 0, y: 211}
+      - {x: 20, y: 205}
+      - {x: 28, y: 204}
+      - {x: 30, y: 208}
+      - {x: 35, y: 202}
+      - {x: 36, y: 201}
+      - {x: 1, y: 201}
+      - {x: 2, y: 201}
+    - - {x: 96, y: 215}
+      - {x: 99, y: 218}
+      - {x: 101, y: 230}
+      - {x: 101, y: 211}
+    - - {x: 123, y: 221}
+      - {x: 125, y: 221}
+      - {x: 125, y: 211}
+      - {x: 123, y: 211}
+    - - {x: 140, y: 214}
+      - {x: 147, y: 215}
+      - {x: 153, y: 211}
+      - {x: 136, y: 211}
+    - - {x: 65, y: 231}
+      - {x: 64, y: 232}
+      - {x: 65, y: 231}
+      - {x: 65, y: 227}
+    - - {x: 9, y: 256}
+      - {x: 9, y: 241}
+      - {x: 10, y: 238}
+      - {x: 23, y: 238}
+      - {x: 23, y: 256}
     physicsShape: []
   spritePackingTag: 
   userData: 
