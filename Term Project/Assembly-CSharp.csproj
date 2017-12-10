@@ -55,6 +55,7 @@
      <Compile Include="Assets\2DPlatformer\Scripts\PerfectPixel.cs" />
      <Compile Include="Assets\Scripts\AutoMoveCrate.cs" />
      <Compile Include="Assets\Scripts\BlobBulletScript.cs" />
+     <Compile Include="Assets\Scripts\BlobMinionController.cs" />
      <Compile Include="Assets\Scripts\boss_trigger.cs" />
      <Compile Include="Assets\Scripts\BulletScript.cs" />
      <Compile Include="Assets\Scripts\EmenyPlatformerController.cs" />
