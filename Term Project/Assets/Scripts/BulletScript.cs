@@ -5,7 +5,6 @@ using UnityEngine;
 public class BulletScript : MonoBehaviour {
 
     //The speed of the bullet
-    //public GameObject player;
     public static float velx = 5f;
     float vely = 0;
     Rigidbody2D rb;
@@ -20,4 +19,8 @@ public class BulletScript : MonoBehaviour {
 
         rb.velocity = new Vector2(velx, vely);
 	}
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Destroy(gameObject);
+    }
 }

@@ -110,6 +110,8 @@ MonoBehaviour:
   minGroundNormalY: 0.65
   gravityModifier: 1
   target: {fileID: 0}
+  bullet: {fileID: 1077022222397200, guid: 77a044e243cac3e47a197943fb0928f6, type: 2}
+  fire_rate: 1
 --- !u!212 &212672001930651480
 SpriteRenderer:
   m_ObjectHideFlags: 1

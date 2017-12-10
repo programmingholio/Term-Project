@@ -4,29 +4,80 @@ using UnityEngine;
 
 public class PlayerPlatformerController : PhysicsObject
 {
-
+    /*
+     * ###############################
+     * # VARIABLE DECLRARTION BEGINS # 
+     * ###############################
+     */
+    //max running speed
     public float maxSpeed = 7;
+
+    //max jumping speed
     public float jumpTakeOffSpeed = 7;
 
     //the bullet game object
     public GameObject bullet;
 
+    //the bullet fire rate
     public float fire_rate = 0.5f;
-    public Vector2 offset = new Vector2 (0.5f, 0f);
 
+    //the offset for the position where the bullet will be generated
+    private Vector2 offset = new Vector2(0.7f, 0f);
+
+    //sprite renderer of the player
     private SpriteRenderer spriteRenderer;
+
+    //animator of the player
     private Animator animator;
+
+    //boolean which represent if the weapon (machine) has been pull out
     private bool weapon;
+
+    //the positon where the bullet will be generated
     private Vector2 bullet_position;
+
+    // determine when the next bullet can be fired
     private float next_fire = 0.0f;
+
+    // boolean which represents whether the player has fliped or not
     private bool flipSprite;
+
+    //the player movement
     private Vector2 move;
+
+    //the player health
+    private int health;
+
+    /*
+     * #############################
+     * # VARIABLE DECLRARTION ENDS # 
+     * #############################
+     */
+
+    public Vector2 Offset
+    {
+        get
+        {
+            return offset;
+        }
+
+        set
+        {
+            offset = value;
+        }
+    }
 
     // Use this for initialization
     void Awake()
     {
+        //get the sprite renderer
         spriteRenderer = GetComponent<SpriteRenderer>();
+        
+        //get the animator
         animator = GetComponent<Animator>();
+
+        //initialize the player health to 100
+        health = 100;
     }
 
     protected override void ComputeVelocity()
@@ -39,114 +90,112 @@ public class PlayerPlatformerController : PhysicsObject
         move = Vector2.zero;
         move.x = Input.GetAxis("Horizontal");
 
-        if (Input.GetKeyDown(KeyCode.Q))
+        //if the player is still alive
+        if (health != 0)
         {
-            weapon = true;
-            animator.SetInteger("State", 6);
-        }
-        else if (Input.GetKeyDown(KeyCode.E))
-        {
-            weapon = false;
-            animator.SetInteger("State", 0);
-        }
-
-
-        /* ########
-         * # Jump #
-         * ########
+            /*
+         * ####################################
+         * # Switch the weapon to machine gun #
+         * ####################################
          */
-        if (Input.GetButtonDown("Jump") && grounded)
-        {
-            velocity.y = jumpTakeOffSpeed;
-            if(weapon)
+            if (Input.GetKeyDown(KeyCode.Q))
             {
-                animator.SetInteger("State", 7);
-            }
-            else animator.SetInteger("State", 2);
-        }
-        else if (Input.GetButtonUp("Jump"))
-        {
-            if (velocity.y > 0)
-            {
-                velocity.y = velocity.y * 0.5f;
-            }
-            if(weapon)
-            {
+                weapon = true;
                 animator.SetInteger("State", 6);
             }
-            else animator.SetInteger("State", 0);
-        }
-
-        /*
-         * ########
-         * # Walk #
-         * ########
-         */
-        if (Input.GetButtonDown("Horizontal"))
-        {
-            //Change Animation
-            if(weapon)
+            else if (Input.GetKeyDown(KeyCode.E))
             {
-                animator.SetInteger("State", 8);
+                weapon = false;
+                animator.SetInteger("State", 0);
             }
-            else animator.SetInteger("State", 4);
 
-            //Flip the Player
-            flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
-            if (flipSprite)
+
+            /* ########
+             * # Jump #
+             * ########
+             */
+            if (Input.GetButtonDown("Jump") && grounded)
             {
-                spriteRenderer.flipX = !spriteRenderer.flipX;
-                //flip the bullet
-                BulletScript.velx *= -1;
+                velocity.y = jumpTakeOffSpeed;
+                if (weapon)
+                {
+                    animator.SetInteger("State", 7);
+                }
+                else animator.SetInteger("State", 2);
             }
-        }
-        else if (Input.GetButtonUp("Horizontal"))
-        {
-            //Change Animation
-            if(weapon)
+            else if (Input.GetButtonUp("Jump"))
             {
-                animator.SetInteger("State", 6);
+                if (velocity.y > 0)
+                {
+                    velocity.y = velocity.y * 0.5f;
+                }
+                if (weapon)
+                {
+                    animator.SetInteger("State", 6);
+                }
+                else animator.SetInteger("State", 0);
             }
-            else animator.SetInteger("State", 0);
 
-            //Flip the Player
-            /*flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
-            if (flipSprite)
+            /*
+             * ########
+             * # Walk #
+             * ########
+             */
+            if (Input.GetButtonDown("Horizontal"))
             {
-                spriteRenderer.flipX = !spriteRenderer.flipX;
-            }*/
+                //Change Animation
+                if (weapon)
+                {
+                    animator.SetInteger("State", 8);
+                }
+                else animator.SetInteger("State", 4);
+
+                //Flip the Player
+                flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+                if (flipSprite)
+                {
+                    spriteRenderer.flipX = !spriteRenderer.flipX;
+                    //flip the bullet
+                    BulletScript.velx *= -1;
+                }
+            }
+            else if (Input.GetButtonUp("Horizontal"))
+            {
+                //Change Animation
+                if (weapon)
+                {
+                    animator.SetInteger("State", 6);
+                }
+                else animator.SetInteger("State", 0);
+            }
+
+            /*
+             * ################
+             * # Pull the Gun #
+             * ################
+             */
+            if (Input.GetMouseButtonDown(0) && Time.time > next_fire)
+            {
+                animator.SetInteger("State", 5);
+                next_fire = Time.time + fire_rate;
+                Fire();
+
+            }
+            else if (Input.GetMouseButtonUp(0))
+            {
+                animator.SetInteger("State", 0);
+            }
+            targetVelocity = move * maxSpeed;
         }
 
-        /*
-         * ################
-         * # Pull the Gun #
-         * ################
-         */
-        if( Input.GetMouseButtonDown(0) && Time.time > next_fire)
+        //if no health, game ends
+        else
         {
-            animator.SetInteger("State", 5);
-            next_fire = Time.time + fire_rate;
-            Fire();
+            //play die animation
+            animator.SetInteger("State", 10);
         }
-        else if (Input.GetMouseButtonUp(0))
-        {
-            animator.SetInteger("State", 0);
-        }
-
-        targetVelocity = move * maxSpeed;
-
     }
 
-    /*
-     * 
-     * ###########################################
-     * # Set the animator back to previous state #
-     * ###########################################
-     */
-    void BackToPreviousState()
-    {
-
-    }
     /*
      * #####################
      * # The fire function #
@@ -155,9 +204,7 @@ public class PlayerPlatformerController : PhysicsObject
     void Fire()
     {
         bullet_position = transform.position;
-        //bullet_position += offset;
 
-        //Flip the Player
         flipSprite = (spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
         if (flipSprite)
         {
@@ -169,5 +216,21 @@ public class PlayerPlatformerController : PhysicsObject
         }
 
         Instantiate(bullet, bullet_position, Quaternion.identity);
+
+    }
+
+    /*
+     * ######################
+     * # Collision Function #
+     * ######################
+     */
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        //if get hit by a bullet
+        if (collision.gameObject.tag == "BlobBullet")
+        {
+            health -= 10;
+            animator.SetInteger("State", 3);
+        }
     }
 }
