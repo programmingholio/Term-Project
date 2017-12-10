@@ -21,7 +21,7 @@ Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_D
 Loading C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\zirou\Desktop\Term-Project\Term Project\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.212 seconds
+- Completed reload, in  0.018 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
@@ -61,9 +61,9 @@ The referenced script on this Behaviour (Game Object 'BackgroundGradient - 3') i
  
 (Filename:  Line: 1758)
 
-UnloadTime: 0.637447 ms
+UnloadTime: 0.656410 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3d58 -> priority: 1 
-  Thread -> id: 90c -> priority: 1 
-  Thread -> id: 27d0 -> priority: 1 
-  Thread -> id: 29c0 -> priority: 1 
+  Thread -> id: 2a40 -> priority: 1 
+  Thread -> id: 2bdc -> priority: 1 
+  Thread -> id: 2b20 -> priority: 1 
+  Thread -> id: 1504 -> priority: 1 
