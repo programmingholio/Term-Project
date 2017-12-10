@@ -61,9 +61,9 @@ The referenced script on this Behaviour (Game Object 'BackgroundGradient - 3') i
  
 (Filename:  Line: 1758)
 
-UnloadTime: 0.656410 ms
+UnloadTime: 0.801550 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2a40 -> priority: 1 
-  Thread -> id: 2bdc -> priority: 1 
-  Thread -> id: 2b20 -> priority: 1 
-  Thread -> id: 1504 -> priority: 1 
+  Thread -> id: 22f4 -> priority: 1 
+  Thread -> id: 784 -> priority: 1 
+  Thread -> id: 2a54 -> priority: 1 
+  Thread -> id: 2a5c -> priority: 1 
