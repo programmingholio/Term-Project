@@ -185,6 +185,8 @@ public class PlayerPlatformerController : PhysicsObject
             {
                 animator.SetInteger("State", 0);
             }
+
+            //move 
             targetVelocity = move * maxSpeed;
         }
 

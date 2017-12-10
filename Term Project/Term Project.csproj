@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\PhysicsObject.cs" />
     <Compile Include="Assets\Scripts\PlayAgain.cs" />
     <Compile Include="Assets\Scripts\PlayerPlatformerController.cs" />
+    <Compile Include="Assets\Scripts\SpiderController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
