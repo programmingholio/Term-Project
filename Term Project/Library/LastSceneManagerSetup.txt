@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/2DPlatformer/Scenes/2DPlatformerMain.unity
+- path: Assets/_Scenes/Boss.unity
   isLoaded: 1
   isActive: 1
