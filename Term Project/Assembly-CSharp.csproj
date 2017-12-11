@@ -56,14 +56,17 @@
      <Compile Include="Assets\Scripts\AutoMoveCrate.cs" />
      <Compile Include="Assets\Scripts\BlobBulletScript.cs" />
      <Compile Include="Assets\Scripts\BlobMinionController.cs" />
-     <Compile Include="Assets\Scripts\boss_trigger.cs" />
+     <Compile Include="Assets\Scripts\Boss\bomb_script.cs" />
+     <Compile Include="Assets\Scripts\Boss\boss_controller.cs" />
+     <Compile Include="Assets\Scripts\Boss\boss_trigger.cs" />
+     <Compile Include="Assets\Scripts\Boss\potion_get.cs" />
+     <Compile Include="Assets\Scripts\Boss\smooth_camera.cs" />
      <Compile Include="Assets\Scripts\BulletScript.cs" />
      <Compile Include="Assets\Scripts\EmenyPlatformerController.cs" />
      <Compile Include="Assets\Scripts\MenuScript.cs" />
      <Compile Include="Assets\Scripts\PhysicsObject.cs" />
      <Compile Include="Assets\Scripts\PlayAgain.cs" />
      <Compile Include="Assets\Scripts\PlayerPlatformerController.cs" />
-     <Compile Include="Assets\Scripts\smooth_camera.cs" />
      <Compile Include="Assets\Scripts\SpiderController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

@@ -12,23 +12,25 @@ public class boss_trigger : MonoBehaviour {
     }
 
     void boss_battle(){
-        Wait(2, () => {
+        Wait(7, () => {
             BOSS.SetActive(true);
             boss_music.SetActive(true);
             bomb1.SetActive(true);
             bomb2.SetActive(true);
             bomb3.SetActive(true);
-            Camera.main.fieldOfView = 60.0f;
+            Camera.main.fieldOfView = 76.0f;
         });
 
-        invis_floor.SetActive(false);
-        music.SetActive(false); 
-        
-        boss_light1.SetActive(true);
-        boss_light2.SetActive(true);
-        boss_light3.SetActive(true);
-        boss_light4.SetActive(true);
+        Wait(5, () => {
+            invis_floor.SetActive(false);
+            music.SetActive(false); 
+            
+            boss_light1.SetActive(true);
+            boss_light2.SetActive(true);
+            boss_light3.SetActive(true);
+            boss_light4.SetActive(true);
 
+        });
 
 
     }
