@@ -215,6 +215,10 @@ public class PlayerPlatformerController : PhysicsObject
                 animator.SetInteger("State", 0);
             }
 
+            if (Input.GetKeyDown(KeyCode.O))
+            {
+                SceneManager.LoadScene("Boss", LoadSceneMode.Single);
+            }
             //move 
             targetVelocity = move * maxSpeed;
         }
@@ -259,13 +263,24 @@ public class PlayerPlatformerController : PhysicsObject
     private void OnCollisionEnter2D(Collision2D collision)
     {
         //if get hit by a bullet
-        if (collision.gameObject.tag == "BlobBullet" || collision.gameObject.tag == "Spider" && health >= 0)
+        if (collision.gameObject.tag == "BlobBullet" || collision.gameObject.tag == "Spider" 
+                || collision.gameObject.tag == "Enemy" && health >= 0)
         {
             health -= 10;
             animator.SetInteger("State", 3);
             health_text.text = "HEALTH : " + health.ToString();
         }
+        else if (collision.gameObject.tag == "Boss" && health >= 0){
+            health -= 5;
+            animator.SetInteger("State", 3);
+            health_text.text = "HEALTH : " + health.ToString();
+        } 
 
+        else if (collision.gameObject.tag == "Potion" && health >= 0){
+            health = 105;
+            animator.SetInteger("State", 3);
+            health_text.text = "HEALTH : " + health.ToString();
+        } 
         //if collide with a piece of yum yum cheese, score + 1
         else if (collision.gameObject.tag == "Cheese")
         {

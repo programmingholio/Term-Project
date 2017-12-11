@@ -54,16 +54,24 @@
      <Compile Include="Assets\2DPlatformer\Scripts\DeadzoneCamera.cs" />
      <Compile Include="Assets\2DPlatformer\Scripts\PerfectPixel.cs" />
      <Compile Include="Assets\Scripts\AutoMoveCrate.cs" />
-     <Compile Include="Assets\Scripts\BlobBulletScript.cs" />
-     <Compile Include="Assets\Scripts\boss_trigger.cs" />
-     <Compile Include="Assets\Scripts\BulletScript.cs" />
-     <Compile Include="Assets\Scripts\EmenyPlatformerController.cs" />
+     <Compile Include="Assets\Scripts\Block\Block1.cs" />
+     <Compile Include="Assets\Scripts\Boss\BlobMinionController.cs" />
+     <Compile Include="Assets\Scripts\Boss\bomb_script.cs" />
+     <Compile Include="Assets\Scripts\Boss\boss_controller.cs" />
+     <Compile Include="Assets\Scripts\Boss\boss_trigger.cs" />
+     <Compile Include="Assets\Scripts\Boss\potion_get.cs" />
+     <Compile Include="Assets\Scripts\Boss\smooth_camera.cs" />
+     <Compile Include="Assets\Scripts\Boss\warp_to_boss.cs" />
+     <Compile Include="Assets\Scripts\Death Weapon\Weapon1.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\BlobBulletScript.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\BulletScript.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\CheeseController.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\EmenyPlatformerController.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\PhysicsObject.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\PlayerPlatformerController.cs" />
+     <Compile Include="Assets\Scripts\Main Scene Scripts\SpiderController.cs" />
      <Compile Include="Assets\Scripts\MenuScript.cs" />
-     <Compile Include="Assets\Scripts\PhysicsObject.cs" />
      <Compile Include="Assets\Scripts\PlayAgain.cs" />
-     <Compile Include="Assets\Scripts\PlayerPlatformerController.cs" />
-     <Compile Include="Assets\Scripts\smooth_camera.cs" />
-     <Compile Include="Assets\Scripts\SpiderController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -10,6 +10,9 @@ TagManager:
   - Block
   - Cheese
   - Spider
+  - DeathWeapon
+  - Boss
+  - potion
   layers:
   - Default
   - TransparentFX

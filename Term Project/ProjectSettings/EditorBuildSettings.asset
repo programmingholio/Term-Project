@@ -6,5 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/2DPlatformer/Scenes/2DPlatformerMain.unity
+    path: Assets/_Scenes/2DPlatformerMain.unity
     guid: e0a1972c08fa4654a9c1bd74e5d9e085
+  - enabled: 1
+    path: Assets/_Scenes/Boss.unity
+    guid: 95bbfa6d75363ed49b0d62b2ca0e1e52
+  - enabled: 1
+    path: Assets/_Scenes/Winning.unity
+    guid: b4ec6ee8e92a18b41ac6ad0e4d23d3bc
