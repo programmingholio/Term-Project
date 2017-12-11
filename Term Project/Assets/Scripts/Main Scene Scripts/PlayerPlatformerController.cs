@@ -272,7 +272,7 @@ public class PlayerPlatformerController : PhysicsObject
             score += 1;
             cheese_text.text = "CHEESE : " + score.ToString();
             GetComponent<AudioSource>().Play();
-            if(score == 2)
+            if(score == 15)
             {
                 SceneManager.LoadScene("Winning");
             }
