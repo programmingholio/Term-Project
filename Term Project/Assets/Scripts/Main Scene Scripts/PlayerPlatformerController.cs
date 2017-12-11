@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 
 public class PlayerPlatformerController : PhysicsObject
 {
@@ -272,6 +272,10 @@ public class PlayerPlatformerController : PhysicsObject
             score += 1;
             cheese_text.text = "CHEESE : " + score.ToString();
             GetComponent<AudioSource>().Play();
+            if(score == 2)
+            {
+                SceneManager.LoadScene("Winning");
+            }
         }
     }
 
