@@ -113,6 +113,8 @@ MonoBehaviour:
   jumpTakeOffSpeed: 7
   bullet: {fileID: 1687509840350578, guid: e8ae00b3f01eef6429d88738a5d566ba, type: 2}
   fire_rate: 0.5
+  health_text: {fileID: 0}
+  cheese_text: {fileID: 0}
 --- !u!212 &212462973046843822
 SpriteRenderer:
   m_ObjectHideFlags: 1

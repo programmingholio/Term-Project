@@ -23,9 +23,10 @@ GameObject:
   - component: {fileID: 95578456230869302}
   - component: {fileID: 50907721474919782}
   - component: {fileID: 70059746712482600}
+  - component: {fileID: 114004548786400306}
   m_Layer: 0
   m_Name: Spider
-  m_TagString: Enemy
+  m_TagString: Spider
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1532527190660254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.75, y: 4.08, z: 0}
+  m_LocalPosition: {x: 17.99, y: -39.99, z: 0}
   m_LocalScale: {x: 1.6905874, y: 1.4488825, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -75,7 +76,7 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.03, y: 0.13}
+  m_Offset: {x: -0.03, y: 0.15}
   m_Size: {x: 0.79, y: 0.0001}
   m_Direction: 0
 --- !u!95 &95578456230869302
@@ -95,6 +96,21 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114004548786400306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1532527190660254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374315b8a8c83fd448257d4f8f7a1f42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minGroundNormalY: 0.65
+  gravityModifier: 1
+  target: {fileID: 0}
+  maxSpeed: 10
 --- !u!212 &212215444229697020
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class PlayerPlatformerController : PhysicsObject
 {
@@ -48,6 +50,15 @@ public class PlayerPlatformerController : PhysicsObject
     //the player health
     private int health;
 
+    //Score: the total number of cheese collected
+    private int score;
+
+    //health text
+    public Text health_text;
+
+    //cheese text
+    public Text cheese_text;
+
     /*
      * #############################
      * # VARIABLE DECLRARTION ENDS # 
@@ -78,6 +89,15 @@ public class PlayerPlatformerController : PhysicsObject
 
         //initialize the player health to 100
         health = 100;
+
+        //initialize the score to 0
+        score = 0;
+
+        //initialize the health text to 100
+        health_text.text = "HEALTH : " + health.ToString();
+
+        //initialize the cheese score to 0
+        cheese_text.text = "CHEESE : " + score.ToString();
     }
 
     protected override void ComputeVelocity()
@@ -91,7 +111,7 @@ public class PlayerPlatformerController : PhysicsObject
         move.x = Input.GetAxis("Horizontal");
 
         //if the player is still alive
-        if (health != 0)
+        if (health > 0)
         {
             /*
          * ####################################
@@ -195,6 +215,7 @@ public class PlayerPlatformerController : PhysicsObject
         {
             //play die animation
             animator.SetInteger("State", 10);
+
         }
     }
 
@@ -229,10 +250,32 @@ public class PlayerPlatformerController : PhysicsObject
     private void OnCollisionEnter2D(Collision2D collision)
     {
         //if get hit by a bullet
-        if (collision.gameObject.tag == "BlobBullet")
+        if (collision.gameObject.tag == "BlobBullet" || collision.gameObject.tag == "Spider" && health >= 0)
         {
             health -= 10;
             animator.SetInteger("State", 3);
+            health_text.text = "HEALTH : " + health.ToString();
+        }
+
+        //if collide with a piece of yum yum cheese, score + 1
+        else if (collision.gameObject.tag == "Cheese")
+        {
+            score += 1;
+            cheese_text.text = "CHEESE : " + score.ToString();
+        }
+    }
+
+    /*
+     * ##############################
+     * # Collision leaving function #
+     * ##############################
+     */
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+
+        if ( (collision.gameObject.tag == "BlobBullet" || collision.gameObject.tag == "Spider") && health != 0)
+        {
+            animator.SetInteger("State", 0);
         }
     }
 }

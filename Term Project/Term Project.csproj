@@ -82,7 +82,10 @@
     <Compile Include="Assets\2DPlatformer\Scripts\PerfectPixel.cs" />
     <Compile Include="Assets\Scripts\AutoMoveCrate.cs" />
     <Compile Include="Assets\Scripts\BlobBulletScript.cs" />
+    <Compile Include="Assets\Scripts\Block\Block1.cs" />
     <Compile Include="Assets\Scripts\BulletScript.cs" />
+    <Compile Include="Assets\Scripts\CheeseController.cs" />
+    <Compile Include="Assets\Scripts\Death Weapon\Weapon1.cs" />
     <Compile Include="Assets\Scripts\EmenyPlatformerController.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
     <Compile Include="Assets\Scripts\PhysicsObject.cs" />
